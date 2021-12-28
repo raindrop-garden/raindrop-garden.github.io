@@ -1,0 +1,10 @@
+body {
+	background: #b5ffc3;
+}
+
+#welcome {
+	width: 400px;
+	font-size: 30px;
+	margin: auto;
+	margin-top: 20vh;
+}
